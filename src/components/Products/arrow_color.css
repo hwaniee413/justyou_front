@@ -1,0 +1,4 @@
+/* Custom Slick styles */
+.slick-prev:before, .slick-next:before {
+    color: #f32e2e !important;
+  }
